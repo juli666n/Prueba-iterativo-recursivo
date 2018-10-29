@@ -7,5 +7,5 @@ considere el siguiente pseudocodigo<br/>
 5.else n=n/2<br/>
 6.goto 2<br/>
 <br/>
-implemente un metodo iterativo 
+implemente un metodo iterativo <br/>
 implemente un metodo recursivo
