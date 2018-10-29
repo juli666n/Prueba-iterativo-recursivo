@@ -1,6 +1,5 @@
 # Prueba-iterativo-recursivo
-considere el siguiente pseudocodigo
-<br/>
+considere el siguiente pseudocodigo<br/>
 1.input n<br/>
 2.print n<br/>
 3.if n==1 then stop<br/>
